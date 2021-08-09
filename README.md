@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuri010
 - 👀 I’m interested in Virtualization, programming, ICT, IT, that stuff :)
-- 🌱 I’m currently learning C++ and Server Management
+- 🌱 I’m currently on Pre-University education (VWO)
 - 💞️ I’m looking to collaborate on... idk tbh 
 - 📫 How to reach me: Discord (on request), and others but idk
 
